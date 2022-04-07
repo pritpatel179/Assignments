@@ -1,0 +1,15 @@
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\StackSample\bin\Debug\net6.0\StackSample.exe
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\StackSample\bin\Debug\net6.0\StackSample.deps.json
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\StackSample\bin\Debug\net6.0\StackSample.runtimeconfig.json
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\StackSample\bin\Debug\net6.0\StackSample.dll
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\StackSample\bin\Debug\net6.0\ref\StackSample.dll
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\StackSample\bin\Debug\net6.0\StackSample.pdb
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\StackSample\obj\Debug\net6.0\StackSample.csproj.AssemblyReference.cache
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\StackSample\obj\Debug\net6.0\StackSample.GeneratedMSBuildEditorConfig.editorconfig
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\StackSample\obj\Debug\net6.0\StackSample.AssemblyInfoInputs.cache
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\StackSample\obj\Debug\net6.0\StackSample.AssemblyInfo.cs
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\StackSample\obj\Debug\net6.0\StackSample.csproj.CoreCompileInputs.cache
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\StackSample\obj\Debug\net6.0\StackSample.dll
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\StackSample\obj\Debug\net6.0\ref\StackSample.dll
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\StackSample\obj\Debug\net6.0\StackSample.pdb
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\StackSample\obj\Debug\net6.0\StackSample.genruntimeconfig.cache
