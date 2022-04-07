@@ -1,0 +1,15 @@
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\LookupSample\bin\Debug\net6.0\LookupSample.exe
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\LookupSample\bin\Debug\net6.0\LookupSample.deps.json
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\LookupSample\bin\Debug\net6.0\LookupSample.runtimeconfig.json
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\LookupSample\bin\Debug\net6.0\LookupSample.dll
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\LookupSample\bin\Debug\net6.0\ref\LookupSample.dll
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\LookupSample\bin\Debug\net6.0\LookupSample.pdb
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\LookupSample\obj\Debug\net6.0\LookupSample.csproj.AssemblyReference.cache
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\LookupSample\obj\Debug\net6.0\LookupSample.GeneratedMSBuildEditorConfig.editorconfig
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\LookupSample\obj\Debug\net6.0\LookupSample.AssemblyInfoInputs.cache
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\LookupSample\obj\Debug\net6.0\LookupSample.AssemblyInfo.cs
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\LookupSample\obj\Debug\net6.0\LookupSample.csproj.CoreCompileInputs.cache
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\LookupSample\obj\Debug\net6.0\LookupSample.dll
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\LookupSample\obj\Debug\net6.0\ref\LookupSample.dll
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\LookupSample\obj\Debug\net6.0\LookupSample.pdb
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\LookupSample\obj\Debug\net6.0\LookupSample.genruntimeconfig.cache

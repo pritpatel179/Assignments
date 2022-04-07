@@ -1,0 +1,15 @@
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\ListSamples\bin\Debug\net6.0\ListSamples.exe
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\ListSamples\bin\Debug\net6.0\ListSamples.deps.json
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\ListSamples\bin\Debug\net6.0\ListSamples.runtimeconfig.json
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\ListSamples\bin\Debug\net6.0\ListSamples.dll
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\ListSamples\bin\Debug\net6.0\ref\ListSamples.dll
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\ListSamples\bin\Debug\net6.0\ListSamples.pdb
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\ListSamples\obj\Debug\net6.0\ListSamples.csproj.AssemblyReference.cache
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\ListSamples\obj\Debug\net6.0\ListSamples.GeneratedMSBuildEditorConfig.editorconfig
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\ListSamples\obj\Debug\net6.0\ListSamples.AssemblyInfoInputs.cache
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\ListSamples\obj\Debug\net6.0\ListSamples.AssemblyInfo.cs
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\ListSamples\obj\Debug\net6.0\ListSamples.csproj.CoreCompileInputs.cache
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\ListSamples\obj\Debug\net6.0\ListSamples.dll
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\ListSamples\obj\Debug\net6.0\ref\ListSamples.dll
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\ListSamples\obj\Debug\net6.0\ListSamples.pdb
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\ListSamples\obj\Debug\net6.0\ListSamples.genruntimeconfig.cache
