@@ -1,0 +1,15 @@
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\QueueSample\bin\Debug\net6.0\QueueSample.exe
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\QueueSample\bin\Debug\net6.0\QueueSample.deps.json
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\QueueSample\bin\Debug\net6.0\QueueSample.runtimeconfig.json
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\QueueSample\bin\Debug\net6.0\QueueSample.dll
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\QueueSample\bin\Debug\net6.0\ref\QueueSample.dll
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\QueueSample\bin\Debug\net6.0\QueueSample.pdb
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\QueueSample\obj\Debug\net6.0\QueueSample.csproj.AssemblyReference.cache
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\QueueSample\obj\Debug\net6.0\QueueSample.GeneratedMSBuildEditorConfig.editorconfig
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\QueueSample\obj\Debug\net6.0\QueueSample.AssemblyInfoInputs.cache
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\QueueSample\obj\Debug\net6.0\QueueSample.AssemblyInfo.cs
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\QueueSample\obj\Debug\net6.0\QueueSample.csproj.CoreCompileInputs.cache
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\QueueSample\obj\Debug\net6.0\QueueSample.dll
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\QueueSample\obj\Debug\net6.0\ref\QueueSample.dll
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\QueueSample\obj\Debug\net6.0\QueueSample.pdb
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\QueueSample\obj\Debug\net6.0\QueueSample.genruntimeconfig.cache

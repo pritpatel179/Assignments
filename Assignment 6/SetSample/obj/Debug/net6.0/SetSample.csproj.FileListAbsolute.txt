@@ -1,0 +1,15 @@
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\SetSample\bin\Debug\net6.0\SetSample.exe
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\SetSample\bin\Debug\net6.0\SetSample.deps.json
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\SetSample\bin\Debug\net6.0\SetSample.runtimeconfig.json
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\SetSample\bin\Debug\net6.0\SetSample.dll
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\SetSample\bin\Debug\net6.0\ref\SetSample.dll
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\SetSample\bin\Debug\net6.0\SetSample.pdb
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\SetSample\obj\Debug\net6.0\SetSample.csproj.AssemblyReference.cache
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\SetSample\obj\Debug\net6.0\SetSample.GeneratedMSBuildEditorConfig.editorconfig
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\SetSample\obj\Debug\net6.0\SetSample.AssemblyInfoInputs.cache
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\SetSample\obj\Debug\net6.0\SetSample.AssemblyInfo.cs
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\SetSample\obj\Debug\net6.0\SetSample.csproj.CoreCompileInputs.cache
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\SetSample\obj\Debug\net6.0\SetSample.dll
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\SetSample\obj\Debug\net6.0\ref\SetSample.dll
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\SetSample\obj\Debug\net6.0\SetSample.pdb
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\Assignment 6\SetSample\obj\Debug\net6.0\SetSample.genruntimeconfig.cache
