@@ -1,0 +1,189 @@
+C:\Users\student\Desktop\DOTNET 584\1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\student\Desktop\DOTNET 584\1\bin\Debug\net6.0\appsettings.json
+C:\Users\student\Desktop\DOTNET 584\1\bin\Debug\net6.0\1.staticwebassets.runtime.json
+C:\Users\student\Desktop\DOTNET 584\1\bin\Debug\net6.0\1.exe
+C:\Users\student\Desktop\DOTNET 584\1\bin\Debug\net6.0\1.deps.json
+C:\Users\student\Desktop\DOTNET 584\1\bin\Debug\net6.0\1.runtimeconfig.json
+C:\Users\student\Desktop\DOTNET 584\1\bin\Debug\net6.0\1.dll
+C:\Users\student\Desktop\DOTNET 584\1\bin\Debug\net6.0\1.pdb
+C:\Users\student\Desktop\DOTNET 584\1\obj\Debug\net6.0\1.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\DOTNET 584\1\obj\Debug\net6.0\1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\DOTNET 584\1\obj\Debug\net6.0\1.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\DOTNET 584\1\obj\Debug\net6.0\1.AssemblyInfo.cs
+C:\Users\student\Desktop\DOTNET 584\1\obj\Debug\net6.0\1.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\DOTNET 584\1\obj\Debug\net6.0\1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\student\Desktop\DOTNET 584\1\obj\Debug\net6.0\1.RazorAssemblyInfo.cache
+C:\Users\student\Desktop\DOTNET 584\1\obj\Debug\net6.0\1.RazorAssemblyInfo.cs
+C:\Users\student\Desktop\DOTNET 584\1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\student\Desktop\DOTNET 584\1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\student\Desktop\DOTNET 584\1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\student\Desktop\DOTNET 584\1\obj\Debug\net6.0\scopedcss\bundle\1.styles.css
+C:\Users\student\Desktop\DOTNET 584\1\obj\Debug\net6.0\scopedcss\projectbundle\1.bundle.scp.css
+C:\Users\student\Desktop\DOTNET 584\1\obj\Debug\net6.0\1.dll
+C:\Users\student\Desktop\DOTNET 584\1\obj\Debug\net6.0\refint\1.dll
+C:\Users\student\Desktop\DOTNET 584\1\obj\Debug\net6.0\1.pdb
+C:\Users\student\Desktop\DOTNET 584\1\obj\Debug\net6.0\1.genruntimeconfig.cache
+C:\Users\student\Desktop\DOTNET 584\1\obj\Debug\net6.0\ref\1.dll
+C:\Users\student\Desktop\DOTNET 584\1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\student\Desktop\DOTNET 584\1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\student\Desktop\DOTNET 584\1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\student\Desktop\DOTNET 584\1\obj\Debug\net6.0\1.csproj.CopyComplete
+C:\Users\student\Desktop\DOTNET 584\1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\student\Desktop\DOTNET 584\1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\student\Desktop\DOTNET 584\1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\student\Desktop\DOTNET 584\1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\student\Desktop\DOTNET 584\1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\student\Desktop\DOTNET 584\1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\student\Desktop\DOTNET 584\1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\student\Desktop\DOTNET 584\1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\student\Desktop\DOTNET 584\1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\student\Desktop\DOTNET 584\1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\student\Desktop\DOTNET 584\1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\student\Desktop\DOTNET 584\1\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\student\Desktop\DOTNET 584\1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\student\Desktop\DOTNET 584\1\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\student\Desktop\DOTNET 584\1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\student\Desktop\DOTNET 584\1\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\student\Desktop\DOTNET 584\1\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\student\Desktop\DOTNET 584\1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\student\Desktop\DOTNET 584\1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\student\Desktop\DOTNET 584\1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\student\Desktop\DOTNET 584\1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\student\Desktop\DOTNET 584\1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\student\Desktop\DOTNET 584\1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\student\Desktop\DOTNET 584\1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\student\Desktop\DOTNET 584\1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\student\Desktop\DOTNET 584\1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\student\Desktop\DOTNET 584\1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\student\Desktop\DOTNET 584\1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\student\Desktop\DOTNET 584\1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\student\Desktop\DOTNET 584\1\bin\Debug\net6.0\Humanizer.dll
+C:\Users\student\Desktop\DOTNET 584\1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\student\Desktop\DOTNET 584\1\bin\Debug\net6.0\dotnet-ef.dll
+C:\Users\student\Desktop\DOTNET 584\1\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\1\bin\Debug\net6.0\appsettings.Development.json
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\1\bin\Debug\net6.0\appsettings.json
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\1\bin\Debug\net6.0\1.staticwebassets.runtime.json
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\1\bin\Debug\net6.0\1.exe
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\1\bin\Debug\net6.0\1.deps.json
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\1\bin\Debug\net6.0\1.runtimeconfig.json
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\1\bin\Debug\net6.0\1.dll
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\1\bin\Debug\net6.0\ref\1.dll
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\1\bin\Debug\net6.0\1.pdb
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\1\bin\Debug\net6.0\Humanizer.dll
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\1\bin\Debug\net6.0\dotnet-ef.dll
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\1\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\1\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\1\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\1\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\1\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\1\obj\Debug\net6.0\1.csproj.AssemblyReference.cache
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\1\obj\Debug\net6.0\1.GeneratedMSBuildEditorConfig.editorconfig
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\1\obj\Debug\net6.0\1.AssemblyInfoInputs.cache
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\1\obj\Debug\net6.0\1.AssemblyInfo.cs
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\1\obj\Debug\net6.0\1.csproj.CoreCompileInputs.cache
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\1\obj\Debug\net6.0\1.MvcApplicationPartsAssemblyInfo.cache
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\1\obj\Debug\net6.0\1.RazorAssemblyInfo.cache
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\1\obj\Debug\net6.0\1.RazorAssemblyInfo.cs
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\1\obj\Debug\net6.0\staticwebassets.build.json
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\1\obj\Debug\net6.0\staticwebassets.development.json
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\1\obj\Debug\net6.0\scopedcss\bundle\1.styles.css
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\1\obj\Debug\net6.0\scopedcss\projectbundle\1.bundle.scp.css
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\1\obj\Debug\net6.0\1.csproj.CopyComplete
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\1\obj\Debug\net6.0\1.dll
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\1\obj\Debug\net6.0\ref\1.dll
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\1\obj\Debug\net6.0\1.pdb
+F:\COLLEAGE MSU BARODA\BE SEM 6\Dot Net Techologies\Dot Net Workspace\1\obj\Debug\net6.0\1.genruntimeconfig.cache
+C:\Users\student\Desktop\DOTNET 584\new\1\1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\student\Desktop\DOTNET 584\new\1\1\bin\Debug\net6.0\appsettings.json
+C:\Users\student\Desktop\DOTNET 584\new\1\1\bin\Debug\net6.0\1.staticwebassets.runtime.json
+C:\Users\student\Desktop\DOTNET 584\new\1\1\bin\Debug\net6.0\1.exe
+C:\Users\student\Desktop\DOTNET 584\new\1\1\bin\Debug\net6.0\1.deps.json
+C:\Users\student\Desktop\DOTNET 584\new\1\1\bin\Debug\net6.0\1.runtimeconfig.json
+C:\Users\student\Desktop\DOTNET 584\new\1\1\bin\Debug\net6.0\1.dll
+C:\Users\student\Desktop\DOTNET 584\new\1\1\bin\Debug\net6.0\1.pdb
+C:\Users\student\Desktop\DOTNET 584\new\1\1\bin\Debug\net6.0\Humanizer.dll
+C:\Users\student\Desktop\DOTNET 584\new\1\1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\student\Desktop\DOTNET 584\new\1\1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\student\Desktop\DOTNET 584\new\1\1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\student\Desktop\DOTNET 584\new\1\1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\student\Desktop\DOTNET 584\new\1\1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\student\Desktop\DOTNET 584\new\1\1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\student\Desktop\DOTNET 584\new\1\1\bin\Debug\net6.0\dotnet-ef.dll
+C:\Users\student\Desktop\DOTNET 584\new\1\1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\student\Desktop\DOTNET 584\new\1\1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\student\Desktop\DOTNET 584\new\1\1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\student\Desktop\DOTNET 584\new\1\1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\student\Desktop\DOTNET 584\new\1\1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\student\Desktop\DOTNET 584\new\1\1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\student\Desktop\DOTNET 584\new\1\1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\student\Desktop\DOTNET 584\new\1\1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\student\Desktop\DOTNET 584\new\1\1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\student\Desktop\DOTNET 584\new\1\1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\student\Desktop\DOTNET 584\new\1\1\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\student\Desktop\DOTNET 584\new\1\1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\student\Desktop\DOTNET 584\new\1\1\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\student\Desktop\DOTNET 584\new\1\1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\student\Desktop\DOTNET 584\new\1\1\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\student\Desktop\DOTNET 584\new\1\1\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\student\Desktop\DOTNET 584\new\1\1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\student\Desktop\DOTNET 584\new\1\1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\student\Desktop\DOTNET 584\new\1\1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\student\Desktop\DOTNET 584\new\1\1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\student\Desktop\DOTNET 584\new\1\1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\student\Desktop\DOTNET 584\new\1\1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\student\Desktop\DOTNET 584\new\1\1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\student\Desktop\DOTNET 584\new\1\1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\student\Desktop\DOTNET 584\new\1\1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\student\Desktop\DOTNET 584\new\1\1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\student\Desktop\DOTNET 584\new\1\1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\student\Desktop\DOTNET 584\new\1\1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\student\Desktop\DOTNET 584\new\1\1\obj\Debug\net6.0\1.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\DOTNET 584\new\1\1\obj\Debug\net6.0\1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\DOTNET 584\new\1\1\obj\Debug\net6.0\1.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\DOTNET 584\new\1\1\obj\Debug\net6.0\1.AssemblyInfo.cs
+C:\Users\student\Desktop\DOTNET 584\new\1\1\obj\Debug\net6.0\1.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\DOTNET 584\new\1\1\obj\Debug\net6.0\1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\student\Desktop\DOTNET 584\new\1\1\obj\Debug\net6.0\1.RazorAssemblyInfo.cache
+C:\Users\student\Desktop\DOTNET 584\new\1\1\obj\Debug\net6.0\1.RazorAssemblyInfo.cs
+C:\Users\student\Desktop\DOTNET 584\new\1\1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\student\Desktop\DOTNET 584\new\1\1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\student\Desktop\DOTNET 584\new\1\1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\student\Desktop\DOTNET 584\new\1\1\obj\Debug\net6.0\scopedcss\bundle\1.styles.css
+C:\Users\student\Desktop\DOTNET 584\new\1\1\obj\Debug\net6.0\scopedcss\projectbundle\1.bundle.scp.css
+C:\Users\student\Desktop\DOTNET 584\new\1\1\obj\Debug\net6.0\1.csproj.CopyComplete
+C:\Users\student\Desktop\DOTNET 584\new\1\1\obj\Debug\net6.0\1.dll
+C:\Users\student\Desktop\DOTNET 584\new\1\1\obj\Debug\net6.0\refint\1.dll
+C:\Users\student\Desktop\DOTNET 584\new\1\1\obj\Debug\net6.0\1.pdb
+C:\Users\student\Desktop\DOTNET 584\new\1\1\obj\Debug\net6.0\1.genruntimeconfig.cache
+C:\Users\student\Desktop\DOTNET 584\new\1\1\obj\Debug\net6.0\ref\1.dll
